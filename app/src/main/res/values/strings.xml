@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ClimatePulse</string>
+    <string name="city_name">City Name</string>
+    <string name="temperature">Temperature</string>
+</resources>
