@@ -1,7 +1,7 @@
 # ClimatePulse
 ![image](https://github.com/Takashi-91/ClimatePulse/assets/155132652/9c8c0798-3d3f-4295-ae71-f73c83affbbb)
 
-ClimatePulse is an Android application that provides weather forecasts for the current day and the rest of the week based on the user's current location or a specified city. The app fetches weather data using the OpenWeather API and displays it in a user-friendly interface.
+ClimatePulse is an Android application that provides weather forecasts for the current day user's current location or a specified city. The app fetches weather data using the OpenWeather API and displays it in a user-friendly interface.
 
 ## Features
 
