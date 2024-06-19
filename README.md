@@ -77,7 +77,7 @@ Data classes representing the JSON response from the OpenWeather API:
 - Retrofit: A type-safe HTTP client for Android and Java.
 - Gson: A library for converting Java objects to and from JSON.
 - Glide: An image loading and caching library for Android.
-
+-Lottie: An json for moving animation library 
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
