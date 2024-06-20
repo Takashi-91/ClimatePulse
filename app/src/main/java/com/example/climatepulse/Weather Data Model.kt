@@ -28,12 +28,15 @@ data class Weather(
 )
 
 data class Wind(
-    val speed: Double,
-    val deg: Int
+    val speed: Float,
+    val deg: Int,
+    val gust:Float
 )
 
 data class Sys(
     val country: String,
     val sunrise: Long,
     val sunset: Long
-)
+) {
+
+}
