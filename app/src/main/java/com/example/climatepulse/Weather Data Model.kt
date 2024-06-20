@@ -1,5 +1,7 @@
 package com.example.climatepulse
 
+import java.util.TimeZone
+
 data class WeatherData(
     val name: String,
     val main: Main,
@@ -8,7 +10,11 @@ data class WeatherData(
     val sys: Sys,
     val visibility: Int,
     val dt: Long
-)
+
+) {
+
+
+}
 
 data class Main(
     val temp: Double,
@@ -17,7 +23,8 @@ data class Main(
     val temp_max: Double,
     val pressure: Int,
     val humidity: Int,
-    val wind:Double
+    val wind:Double,
+    val timezone:Int
 )
 
 data class Weather(
@@ -35,8 +42,8 @@ data class Wind(
 
 data class Sys(
     val country: String,
-    val sunrise: Long,
-    val sunset: Long
+    val sunrise: Int,
+    val sunset: Int
 ) {
 
 }
