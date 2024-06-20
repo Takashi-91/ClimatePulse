@@ -164,7 +164,7 @@
             android:gravity="center" />
 
         <TextView
-            android:id="@+id/timeZone"
+            android:id="@+id/textView8"
             android:layout_width="153dp"
             android:layout_height="wrap_content"
             android:layout_alignParentEnd="true"
