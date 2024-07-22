@@ -68,8 +68,6 @@ Data classes representing the JSON response from the OpenWeather API:
 - `Sys`
 
 ### Layout
-![ui1](https://github.com/Takashi-91/ClimatePulse/assets/155132652/e7413873-0c95-45df-926b-708057dbfebf)
-![ui3](https://github.com/Takashi-91/ClimatePulse/assets/155132652/7dd528dd-5cfa-49b9-b2a4-6cca8a566138)
 ![234](https://github.com/user-attachments/assets/e202042f-3412-4937-a160-825a988cd5f2)
 
 
