@@ -4,21 +4,6 @@ object Locations {
 
 val capitalCities = listOf(
 
-    "Afghanistan" to "Kabul",
-    "Albania" to "Tirana",
-    "Algeria" to "Algiers",
-    "Andorra" to "Andorra la Vella",
-    "Angola" to "Luanda",
-    "Antigua and Barbuda" to "Saint John's",
-    "Argentina" to "Buenos Aires",
-    "Armenia" to "Yerevan",
-    "Australia" to "Canberra",
-    "Austria" to "Vienna",
-    "Azerbaijan" to "Baku",
-    "Bahamas" to "Nassau",
-    "Bahrain" to "Manama",
-    "Bangladesh" to "Dhaka",
-    "Barbados" to "Bridgetown",
     "Belarus" to "Minsk",
     "Belgium" to "Brussels",
     "Belize" to "Belmopan",

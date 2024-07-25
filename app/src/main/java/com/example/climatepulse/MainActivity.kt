@@ -150,7 +150,6 @@ class MainActivity : AppCompatActivity() {
         val sunSet:TextView=findViewById(R.id.sunSet)
         val sunRise:TextView=findViewById(R.id.sunRise)
         val country:TextView=findViewById(R.id.Country)
-        val timeZone:TextView=findViewById(R.id.timeZone)
        val sunriseTime = convertUnixToTime(weatherData.sys.sunset)
        val sunsetTime = convertUnixToTime(weatherData.sys.sunrise)
      //  var timeZone=convertUnixToTimeZone(weatherData.main.timezone)
@@ -167,7 +166,7 @@ class MainActivity : AppCompatActivity() {
         country.text=weatherData.sys.country
         sunRise.text = "Sun Rise: $sunriseTime"
         sunSet.text = "Sun Set: $sunsetTime"
-        timeZone.text="Time Zone${weatherData.main.timezone}"
+
 
 
         val iconUrl = "https://openweathermap.org/img/wn/${weatherData.weather[0].icon}.png"
