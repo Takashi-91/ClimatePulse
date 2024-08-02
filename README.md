@@ -1,9 +1,4 @@
-Here’s a redesigned version of your README to make it more visually appealing and structured:
 
----
-
-# ClimatePulse
-![ClimatePulse](https://github.com/Takashi-91/ClimatePulse/assets/155132652/9c8c0798-3d3f-4295-ae71-f73c83affbbb)
 
 **ClimatePulse** is an Android application providing weather forecasts for the user's current location or a specified city. The app fetches weather data using the OpenWeather API and displays it in a user-friendly interface.
 
